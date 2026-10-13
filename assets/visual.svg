@@ -1,0 +1,96 @@
+<svg width="900" height="520" viewBox="0 0 900 520"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="frame" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a855f7"/>
+      <stop offset="50%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+
+    <linearGradient id="overlay" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#050812" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#050812" stop-opacity="0.65"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <clipPath id="panel">
+      <rect x="3" y="3" width="894" height="514" rx="24"/>
+    </clipPath>
+  </defs>
+
+  <rect width="900" height="520" rx="26" fill="#050812"/>
+
+  <g clip-path="url(#panel)">
+    <image
+      href="hacker.jpg"
+      x="0"
+      y="0"
+      width="900"
+      height="520"
+      preserveAspectRatio="xMidYMid slice"/>
+
+    <rect width="900" height="520" fill="url(#overlay)"/>
+
+    <!-- scan lines -->
+    <g opacity="0.12" stroke="#22d3ee">
+      <path d="M0 80H900"/>
+      <path d="M0 160H900"/>
+      <path d="M0 240H900"/>
+      <path d="M0 320H900"/>
+      <path d="M0 400H900"/>
+      <path d="M0 480H900"/>
+    </g>
+
+    <!-- cyber grid -->
+    <g opacity="0.08" stroke="#a855f7">
+      <path d="M100 0V520"/>
+      <path d="M200 0V520"/>
+      <path d="M300 0V520"/>
+      <path d="M400 0V520"/>
+      <path d="M500 0V520"/>
+      <path d="M600 0V520"/>
+      <path d="M700 0V520"/>
+      <path d="M800 0V520"/>
+    </g>
+  </g>
+
+  <rect x="3" y="3" width="894" height="514"
+        rx="24"
+        fill="none"
+        stroke="url(#frame)"
+        stroke-width="3"
+        filter="url(#glow)"/>
+
+  <rect x="28" y="28" width="175" height="38"
+        rx="19"
+        fill="#050812"
+        fill-opacity="0.85"
+        stroke="#22d3ee"
+        stroke-width="1"/>
+
+  <circle cx="50" cy="47" r="5" fill="#22d3ee"/>
+
+  <text x="65" y="53"
+        fill="#e2e8f0"
+        font-family="monospace"
+        font-size="15">
+    FAIZVOID // SEC
+  </text>
+
+  <text x="850" y="485"
+        text-anchor="end"
+        fill="#22d3ee"
+        font-family="monospace"
+        font-size="14"
+        opacity="0.9">
+    ACCESS_GRANTED
+  </text>
+</svg>
