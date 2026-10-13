@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**faizanehtesham6/faizanehtesham6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# FAIZAN EHTESHAM
 
-Here are some ideas to get you started:
+### `Developer • Creator • Builder`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+things+that+feel+different.;Turning+ideas+into+real+projects.;Welcome+to+my+GitHub." alt="Typing animation">
+
+<br><br>
+
+</div>
+
+---
+
+## `> whoami`
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│   FAIZAN EHTESHAM                            │
+│   ────────────────────────────────────────    │
+│                                              │
+│   ◆ Developer                                │
+│   ◆ Creative builder                         │
+│   ◆ Exploring AI + Web Development           │
+│                                              │
+│   Status: Building...                        │
+│                                              │
+└──────────────────────────────────────────────┘
