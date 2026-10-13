@@ -1,14 +1,14 @@
 <div align="center">
 
-# FAIZAN EHTESHAM
+# `faizvoid`
 
-### `Developer • Creator • Builder`
+### Web Developer | Ethical Hacker
+
+<img src="./assets/visual.svg" width="850"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+things+that+feel+different.;Turning+ideas+into+real+projects.;Welcome+to+my+GitHub." alt="Typing animation">
-
-<br><br>
+<img src="./assets/terminal.svg" width="850"/>
 
 </div>
 
@@ -17,15 +17,12 @@
 ## `> whoami`
 
 ```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│   FAIZAN EHTESHAM                            │
-│   ────────────────────────────────────────    │
-│                                              │
-│   ◆ Developer                                │
-│   ◆ Creative builder                         │
-│   ◆ Exploring AI + Web Development           │
-│                                              │
-│   Status: Building...                        │
-│                                              │
-└──────────────────────────────────────────────┘
+faizvoid@system:~$ whoami
+
+faizvoid
+
+Web Developer | Ethical Hacker
+Building web experiences, security labs, and AI-powered systems.
+
+Location : India
+Status   : ONLINE
